@@ -1,0 +1,41 @@
+body {
+    background: black;
+    margin: 0;
+    padding: 0;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.wrap-btn {
+    margin: 30px 0 20px 0;
+}
+
+.btn-run {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-weight: 200;
+    display: block;
+    width: 180px;
+    margin: 0 auto;
+    background: black;
+    font-size: 18px; 
+    color: #f0a202;
+    border: 2px solid #f0a202;
+    border-radius: 20px;
+    cursor: help;
+}
+
+div .fond {
+    margin: 10px;
+    height: 25vh;
+    width: 25vh;
+}
+
+.girl {
+    align-items: center;
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 7.8vh;
+}
